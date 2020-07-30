@@ -36,6 +36,6 @@ dataset = Dataset('<path to dataset>')
 for col in dataset.collections:
     print(col.name) # topic name
     print(col.keywords) # topic keywords
-    for a in topic.articles(): # articles collection of this topic
+    for a in col.articles(): # articles collection of this topic
         pass # do something with the articles
 ```
