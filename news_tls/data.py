@@ -267,7 +267,10 @@ class ArticleCollection:
 
     def _load_timelines(self):
         timelines = []
-        for raw_tl in utils.read_jsonl(self.path / 'timelines.jsonl'):
+        path = self.path / 'timelines.jsonl'
+        if not path.exists():
+            return []
+        for raw_tl in utils.read_jsonl(path):
             if raw_tl:
                 tl_items = []
                 for t, s in raw_tl:
