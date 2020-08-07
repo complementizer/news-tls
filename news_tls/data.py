@@ -5,6 +5,7 @@ import datetime
 import string
 from spacy.lang.en.stop_words import STOP_WORDS
 from collections import defaultdict
+from tilse.data.timelines import Timeline as TilseTimeline
 from news_tls import utils
 from pprint import pprint
 
@@ -136,6 +137,7 @@ class Sentence:
         self.time_level = time_level
         self.is_title = is_title
 
+
     @staticmethod
     def get_time(tokens):
         for token in tokens:
@@ -149,6 +151,12 @@ class Sentence:
             if token.time_format:
                 return token.time_format
         return None
+
+    def get_date(self):
+        if self.time_level == 'd':
+            return self.time.date()
+        else:
+            return None
 
     def clean_tokens(self):
         tokens = [tok.raw.lower() for tok in self.tokens]
@@ -349,7 +357,7 @@ class Timeline:
         lines = []
         for t, summary in self.items:
             lines.append('[{}]'.format(t.date()))
-            for sent in summary.split('\n'):
+            for sent in summary:
                 lines.append(sent)
             lines.append('-'*50)
         return '\n'.join(lines)
