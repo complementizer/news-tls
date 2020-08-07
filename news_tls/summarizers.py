@@ -10,13 +10,6 @@ class Summarizer:
     def summarize(self, sents, k, vectorizer, filters=None):
         raise NotImplementedError
 
-    def filter_sentence(self, s, filters):
-        if filters:
-            for f in filters:
-                if f(s) == True:
-                    return True
-        return False
-
 
 class TextRank(Summarizer):
 
@@ -148,7 +141,7 @@ class CentroidOpt(Summarizer):
             ranked = sorted(i_to_score.items(), key=lambda x: x[1], reverse=True)
             for i, score in ranked:
                 s = sents[i]
-                remaining.remove(i)                
+                remaining.remove(i)
                 if filter and not filter(s):
                     continue
                 elif self.is_redundant(i, selected, X):
