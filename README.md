@@ -1,5 +1,5 @@
 # News Timeline Summarization
-Data & code for the ACL 2020 paper *Examining the State-of-the-Art in News Timeline Summarization ([paper](https://www.aclweb.org/anthology/2020.acl-main.122.pdf),  [slides](acl20-slides.pdf)).
+Data & code for the ACL 2020 paper Examining the State-of-the-Art in News Timeline Summarization ([paper](https://www.aclweb.org/anthology/2020.acl-main.122.pdf),  [slides](acl20-slides.pdf)).
 
 ### Updates
 Available
