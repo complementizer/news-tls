@@ -2,7 +2,14 @@
 Data & code for the ACL 2020 paper *Examining the State-of-the-Art in News Timeline Summarization ([paper](https://www.aclweb.org/anthology/2020.acl-main.122.pdf),  [slides](acl20-slides.pdf)).
 
 ### Updates
-Datasets are available, code for methods will follow soon.
+Available
+* all datasets
+* methods & evaluation code
+* preprocessing instructions for new datasets
+
+Planned
+* instructions to train date ranking models
+* more user-friendly fast TLS version to run on unpreprocessed data
 
 ### Datasets
 
@@ -10,8 +17,9 @@ All datasets used in our experiments are [available here](https://drive.google.c
 * T17
 * Crisis
 * Entities
-### Installation
-Install requirements & the `news_tls` library.
+### Library Installation
+The `news-tls` library contains tools for loading TLS datasets and running TLS methods.
+To install, run:
 ```
 pip install -r requirements.txt
 pip install -e .
@@ -19,7 +27,10 @@ pip install -e .
 [Tilse](https://github.com/smartschat/tilse) also needs to be installed for evaluation and some TLS-specific data classes.
 
 ### Loading a dataset
-Checkout [news_tls/explore_dataset.py](news_tls/explore_dataset.py) to see how to load the provided datasets.
+Check out [news_tls/explore_dataset.py](news_tls/explore_dataset.py) to see how to load the provided datasets.
+
+### Experiments & Evaluation
+Check out [experiments here](experiments).
 
 ### Format & preprocess your own dataset
 If you have a new dataset yourself and want to use preprocess it as the datasets above, checkout the [preprocessing steps here](preprocessing).
