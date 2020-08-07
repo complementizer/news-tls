@@ -15,7 +15,7 @@ python experiments/evaluate.py \
 	--resources resources/datewise \
 	--output $RESULTS/t17.datewise.json
 ```
-This method has a supervised component - regression for ranking dates. The regression models were trained separately and are only loaded and used in this process. Note that for each topic in a dataset, a different model was trained and is selected in evaluation because are doing leave-one-out cross-validation.
+This method has a supervised component - regression for ranking dates. The regression models were trained separately and are only loaded and used in this process. Note that for each topic in a dataset, a different model was trained and is selected in evaluation because we are doing leave-one-out cross-validation.
 
 Running & evaluating the `clust` method on the `t17` dataset:
 ```bash
