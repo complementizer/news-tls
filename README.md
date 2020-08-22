@@ -17,7 +17,7 @@ All datasets used in our experiments are [available here](https://drive.google.c
 * T17
 * Crisis
 * Entities
-### Library Installation
+### Library installation
 The `news-tls` library contains tools for loading TLS datasets and running TLS methods.
 To install, run:
 ```
@@ -29,7 +29,7 @@ pip install -e .
 ### Loading a dataset
 Check out [news_tls/explore_dataset.py](news_tls/explore_dataset.py) to see how to load the provided datasets.
 
-### Running Methods & Evaluation
+### Running methods & evaluation
 Check out [experiments here](experiments).
 
 ### Format & preprocess your own dataset
