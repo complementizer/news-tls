@@ -29,11 +29,11 @@ pip install -e .
 ### Loading a dataset
 Check out [news_tls/explore_dataset.py](news_tls/explore_dataset.py) to see how to load the provided datasets.
 
-### Experiments & Evaluation
+### Running Methods & Evaluation
 Check out [experiments here](experiments).
 
 ### Format & preprocess your own dataset
-If you have a new dataset yourself and want to use preprocess it as the datasets above, checkout the [preprocessing steps here](preprocessing).
+If you have a new dataset yourself and want to use preprocess it as the datasets above, check out the [preprocessing steps here](preprocessing).
 
 ### Citation
 ```

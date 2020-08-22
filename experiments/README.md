@@ -1,4 +1,5 @@
 # Experiments & Evaluation
+### Reproduce evaluation
 Here are some instructions to run & evaluate the two methods presented in our paper called `datewise` and `clust`.
 
 Required paths:
@@ -26,3 +27,23 @@ python experiments/evaluate.py \
 ```
 
 For the other datasets, simply replace `t17` with `crisis` or `entities`.
+
+### Run methods without evaluation
+This can be useful if you try the methods on some new dataset without any available ground-truth. Here is a [preprocessed mock dataset](https://drive.google.com/drive/folders/15xHJPOLc7v0yXSKjCNneELKYlwWYeNV0?usp=sharing) with one topic to try this out.
+
+Running the clustering-based method:
+```bash
+DATASET=<pick some dataset>
+python experiments/run_without_eval.py \
+    --dataset $DATASET \
+    --method clust \
+```
+When using the `datewise` method, a date ranking model is required. We can just pick one from the existing datasets:
+```bash
+DATASET=<pick some dataset>
+python experiments/run_without_eval.py \
+    --dataset $DATASET \
+    --method datewise \
+    --model resources/datewise/supervised_date_ranker.entities.pkl
+```
+You can change various settings of the methods and the timeline length and time span in [run_without_eval.py](run_without_eval.py).
