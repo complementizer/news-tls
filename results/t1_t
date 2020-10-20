@@ -1,0 +1,1320 @@
+/home/ross/anaconda3/envs/ds/lib/python3.8/site-packages/sklearn/utils/deprecation.py:143: FutureWarning: The sklearn.linear_model.base module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.linear_model. Anything that cannot be imported from sklearn.linear_model is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/ross/anaconda3/envs/ds/lib/python3.8/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator LinearRegression from version 0.19.2 when using version 0.23.2. This might lead to breaking code or invalid results. Use at your own risk.
+  warnings.warn(
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Al_Gore ***
+[2000-10-31]
+Al Gore or George W ( Dubya ) Bush .
+---
+[2000-11-07]
+The contest between George W Bush and Al Gore on November 7 will be decided by a handful of votes in a body called the electoral college .
+---
+[2000-11-08]
+Vice president Al Gore got a quarter of a million more votes than governor George W Bush in an incredibly close race .
+---
+[2000-11-09]
+Vice president Al Gore got a quarter of a million more votes than governor George W Bush in an incredibly close race .
+---
+[2000-11-17]
+As tonight 's midnight deadline neared for the potentially decisive overseas postal votes to be received by election officials in each Florida county , Al Gore and George W Bush continued to battle one another down to the wire in a series of legal confrontations that could keep the White House in play .
+---
+[2000-11-20]
+With more than two - thirds of the ballots recounted in Broward county , Mr Gore was showing a net gain of only 114 votes over Mr Bush .
+---
+[2000-11-21]
+Before yesterday 's supreme court decision , Al Gore 's allies had signalled that the US vice - president was considering a quick decision to abandon his White House contest with George W Bush if the Florida supreme court ruled in favour of Mr Bush on the two - week old disputed election in the state .
+---
+[2007-10-12]
+Al Gore in an Inconvenient Truth Al Gore and the UN Intergovernmental Panel on Climate Change have won the Nobel peace prize .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Angela_Merkel ***
+[2005-09-18]
+Yesterday 's election denied a majority both to Mr Schröder 's outgoing coalition government of Social Democrats and Greens and to Mrs Merkel 's preferred combination of Christian Democrats and the pro - business Free Democrats .
+---
+[2011-12-02]
+In her euro speech on Friday , Merkel said " fiscal union means both crisis management and new fiscal rules " .
+---
+[2011-12-05]
+As Nicolas Sarkozy and Angela Merkel called on all 27 EU leaders to agree to a revision of the Lisbon treaty in order to enforce tough new fiscal rules in the eurozone , the prime minister indicated that his main aim would be to protect the City of London .
+---
+[2011-12-09]
+When David Cameron used the nuclear option in the early hours of Friday morning , and incensed Angela Merkel and Nicolas Sarkozy by vetoing a new Europe - wide treaty , he claimed to be defending the British economy .
+---
+[2013-09-22]
+Angela Merkel was basking in a historic third - term election victory in Germany on Sunday night , having led her conservatives to their best result in more than 20 years .
+---
+[2014-02-27]
+David Cameron is rolling out the red carpet today for the German chancellor Angela Merkel .
+---
+[2016-12-25]
+Angela Merkel has described the Christmas market lorry attack in Berlin that killed at least 12 on Monday evening as a gruesome deed that would be particularly repugnant if it was confirmed to have been carried out by someone who came to the country as a refugee .
+---
+[2017-09-24]
+Germany goes to the polls on 24 September in national elections that will return a new parliament â€ “ the Bundestag â€ “ and decide whether Angela Merkel remains chancellor for a fourth consecutive term .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Ariel_Sharon ***
+[2000-09-28]
+Surrounded by hundreds of Israeli riot police , Mr Sharon and a handful of Likud politicians marched up to the Haram al - Sharif , the site of the gold Dome of the Rock that is the third holiest shrine in Islam .
+---
+[2001-02-06]
+Sharon , who will be Israel 's 11th prime minister , will get more solid support from the Labour party , whose leader and sitting prime minister , Ehud Barak , he sensationally defeated in the February 6 election .
+---
+[2001-02-07]
+Israel 's newly elected prime minister , Ariel Sharon , has rejected Palestinian demands to resume peace talks where they left off with the outgoing administration of Ehud Barak .
+---
+[2001-09-11]
+The attacks of September 11 embroiled Sharon in a new problem - conflict with the US administration .
+---
+[2002-03-29]
+Days before Ariel Sharon launched Israel 's Operation Defensive Shield with an army assault on the West Bank town of Ramallah on March 29 , eight authors from the International Parliament of Writers visited the town .
+---
+[2004-05-02]
+Mr Sharon 's decisive loss of the referendum on Sunday within the rightwing Likud party on his plan to withdraw Jewish settlements from the Gaza Strip may have crippled the initiative ...
+---
+[2005-12-18]
+On December 18 , Mr Sharon was taken to hospital after suffering a mild stroke .
+---
+[2006-01-04]
+Sharon suffered a major stroke on January 4 .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Arnold_Schwarzenegger ***
+[2001-09-11]
+The release of Warner 's Collateral Damage , which stars Arnold Schwarzenegger as a man whose family is killed when a city skyscraper is hit by a bomb blast , has been indefinitely postponed .
+---
+[2003-10-02]
+Last night Mr Schwarzenegger last night said he did not recall making the remarks .
+---
+[2003-10-07]
+Hollywood star Arnold Schwarzenegger has been elected as governor of California , with the state 's voters banishing the Democratic incumbent , Gray Davis , only 11 months into his second term of office .
+---
+[2003-10-08]
+Hollywood star Arnold Schwarzenegger has been elected as governor of California , with the state 's voters banishing the Democratic incumbent , Gray Davis , only 11 months into his second term of office .
+---
+[2003-10-09]
+The governor - elect of California , Arnold Schwarzenegger , is to ask President Bush for financial assistance to deal with the state 's budget crisis .
+---
+[2004-08-31]
+Arnold Schwarzenegger delved deeply into his Hollywood past during his speech last night at the Republican national convention .
+---
+[2005-12-13]
+Former gang leader Stanley " Tookie " Williams was due to be executed by lethal injection this morning , barring a last - minute act of clemency by the governor of California , Arnold Schwarzenegger .
+---
+[2008-02-05]
+Today 's US news will be California this , New Jersey that , with John McCain high - fiving Arnold Schwarzenegger and Hillary Clinton beseeching Alabamians to give her campaign a second look .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Bashar_al-Assad ***
+[2012-05-25]
+Calls for the United States and its allies to intervene in Syria intensified after a massacre Friday in which Assad 's forces killed 108 people , including dozens of children , mostly in executions carried out by gunmen moving home to home in the town of Houla . "
+---
+[2012-05-28]
+Speaking at a joint press conference on Monday with the British foreign secretary , William Hague , Sergei Lavrov said that both the regime of Bashar al - Assad and the armed opposition were to blame for the deaths of more than 100 people in Houla and Hama , including dozens of children .
+---
+[2013-08-21]
+Kerry also said he had no doubt that Assad was responsible for the chemical weapons attack in east Damascus on 21 August , saying that only three people are responsible for the chemical weapons inside Syria â€ “ Assad , one of his brothers and a senior general .
+---
+[2013-08-29]
+A sidelined and subdued David Cameron flies to St Petersburg on Thursday for the G20 summit warning that the world has let down Syria , strongly supporting Barack Obama 's military plans to degrade Bashar al - Assad 's military , but unable to offer any practical military support from Britain .
+---
+[2017-04-04]
+Here are Trump ’s remarks in full : My fellow Americans , On Tuesday , Syrian dictator Bashar al - Assad launched a horrible chemical weapons attack on innocent civilians using a deadly nerve agent .
+---
+[2017-04-05]
+But it was far from clear on Wednesday what action his own administration would take now that Assad had crossed “ many , many lines ” .
+---
+[2017-04-11]
+Boris Johnson will try to persuade his G7 counterparts at talks in Italy today to consider sanctions against Russia if Vladimir Putin does not abandon Syrian president Bashar al - Assad .
+---
+[2017-04-12]
+Johnson ’s failed bid to get backing for a tougher position against Russia ’s support for Syria ’s president , Bashar al - Assad , has led Labour to describe him as a liability for the UK who “ undermines our credibility
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Bill_Clinton ***
+[1999-01-19]
+One consideration affecting all calculations is that Mr Clinton is due to deliver his annual State of the Union address to the two houses of Congress on January 19 .
+---
+[1999-01-25]
+Lott announced that Senate Republicans would submit written questions to Clinton as early as tomorrow . '
+---
+[1999-04-02]
+London and Dublin hope Mr Clinton can repeat his transatlantic telephone diplomacy that saved the Good Friday Agreement in the final hours of negotiations last April .
+---
+[1999-04-23]
+It received a guarded welcome by President Bill Clinton , as the leaders of 19 Nato states gathered for today 's crucial 50th anniversary summit in Washington .
+---
+[2000-04-21]
+Mr Clinton spoke to both Gerry Adams and David Trimble in the final hours before the signing of the Good Friday agreement in 1998 .
+---
+[2000-11-07]
+Al Gore was closing the gap on George W Bush as Americans prepared to go to the polls today to elect a successor to Bill Clinton in one of the closest - fought presidential election campaigns in US history .
+---
+[2001-01-20]
+Mr Clinton leaves office on January 20 .
+---
+[2008-08-28]
+Finally on night three , Bill Clinton and Joe Biden show the Democrats mean business .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Charles_Taylor ***
+[2003-08-04]
+Charles Taylor , Liberia 's indicted war criminal president , bears a great deal of responsibility for the murderous wars to have wracked not only his own country but also the neighbouring west African states of Sierra Leone , Ivory Coast and Guinea .
+---
+[2003-08-11]
+August 11 Taylor hands control to former vice - president Moses Blah
+---
+[2007-06-04]
+The trial of Charles Taylor - the former president of Liberia and the first former African leader to face an international court - opens in The Hague today where he is accused of war crimes during the diamond - fuelled conflict in neighbouring Sierra Leone .
+---
+[2008-01-07]
+Taylor - previously convicted of embezzlement in the US - is pleading innocent to 11 counts of war crimes and crimes against humanity .
+---
+[2010-08-05]
+And so to Naomi Campbell 's testimony at the war crimes trial of former Liberian president Charles Taylor in The Hague .
+---
+[2010-08-09]
+Naomi Campbell told guests staying at Nelson Mandela 's home in South Africa that she had received diamonds from the former Liberian warlord Charles Taylor , according to testimony given to a court in The Hague today by the actor Mia Farrow .
+---
+[2012-04-26]
+On Thursday Charles Taylor , warlord turned president of Liberia , was convicted of aiding and abetting war crimes by the Sierra Leone special court in The Hague .
+---
+[2012-05-30]
+The former Liberian president Charles Taylor will be sentenced on Wednesday for aiding and abetting war crimes during the long - running civil war in Sierra Leone .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Chris_Brown ***
+[2009-01-04]
+Chris Brown O2 Arena , London , Sunday 11th
+---
+[2009-02-08]
+Singer Chris Brown has handed himself in to Los Angeles police over an alleged assault on an unidentified woman believed to be his girlfriend , the pop star Rihanna .
+---
+[2009-03-05]
+Brown was released on $ 50,000 bail and will appear in court on 5 March if authorities press formal charges .
+---
+[2009-04-06]
+R&B star Chris Brown pleaded not guilty on Monday to charges that he threatened and assaulted his girlfriend , singer Rihanna .
+---
+[2010-02-08]
+Prosecutors have said that they will issue a subpoena calling the singer to discuss the events of 8 February , when Brown allegedly assaulted her .
+---
+[2010-07-03]
+Saturday 3 July : Chris Brown , 29 , Stobbart 's new boyfriend , is shot dead outside her home in Birtley , Gateshead , apparently by Moat .
+---
+[2011-09-05]
+Within days of his release from Durham prison , Moat shot and injured 22-year - old Samantha Stobbart , the mother of his child , and killed her new boyfriend , 29-year - old Chris Brown .
+---
+[2015-09-29]
+The American anti - abortion campaigner Troy Newman has been denied a visa to travel to Australia , just days after the government indicated it might block the American singer Chris Brown from touring the country .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: David_Beckham ***
+[2002-04-10]
+Beckham was examined by United 's club doctors after breaking the second metatarsal bone in his left foot during a Champions League match at Old Trafford against Deportivo La Coruna on Wednesday night .
+---
+[2002-06-02]
+David Beckham , however , appears to be fit at last , along with England 's other injured players , and will lead the team on Sunday night against Sweden in Saitama , near Tokyo .
+---
+[2002-06-07]
+Simeone will almost certainly face Beckham again when England play Argentina on 7 June at this year 's World Cup . '
+---
+[2003-06-11]
+Real Madrid will open negotiations with Manchester United about the purchase of David Beckham early next week , after the results of Barcelona 's presidential election are known .
+---
+[2003-06-15]
+Joan Laporta swept to power in the Barcelona presidential elections last night , propelled to an extraordinary victory on his promise to buy David Beckham from Manchester United .
+---
+[2003-12-25]
+Real Madrid 's president , Florentino Perez , has said it is little wonder that David Beckham 's fitness levels were not what they should have been , after he revealed the England captain " did not train at all during the Christmas break . "
+---
+[2004-10-13]
+Several influential FA members want David Beckham to face disciplinary measures for deliberately engineering a booking to rule him out of England 's game in Azerbaijan .
+---
+[2009-03-09]
+However , Beckham is due back at LA Galaxy on 9 March .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: David_Bowie ***
+[2013-01-08]
+On 8 January 2013 , Bowie put a video for his new single
+---
+[2015-12-25]
+Top story on MediaGuardian Sainsburyâ€ ™ s resurrects Mog the cat for Christmas advert Supermarket retailer moves Judith Kerrâ€ ™ s disaster - prone cat from page to screen 13 years after he was killed off by author Top comment on MediaGuardian Viral video : Star Wars , John Lewis Christmas ad spoofs and David Bowie Donald Trump dancing , Alanis Morissette updates lyrics for Ironic , climbing the Eiffel Tower and a baby koala Todayâ€ ™ s headlines The Guardian French newspaper exposes online â€˜hate speechâ€ ™ .
+---
+[2016-01-08]
+David Bowieâ€ ™ s
+---
+[2016-01-10]
+Bowie died on 10 January in New York , aged 69 , after an 18-month battle with cancer .
+---
+[2016-01-11]
+David Bowieâ€ ™ s
+---
+[2016-01-12]
+David Bowieâ€ ™ s
+---
+[2016-01-15]
+And now Blackstar , David Bowieâ€ ™ s final album which was released just two days before his death from cancer , has stormed to the top of the UK album charts .
+---
+[2016-12-25]
+( Kemp also revealed that Bowie had refused to play Puss in Boots in the Musselburgh Christmas panto . )
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Dilma_Rousseff ***
+[2010-10-31]
+The second round of the presidential election in Brazil , a battle between JosÃ © Serra and Dilma Rousseff , the candidate of President Lula 's party , will come to an end on 31 October , after a three - month campaign .
+---
+[2014-10-26]
+26 October 2014 Dilma Rousseff is re - elected as president .
+---
+[2016-03-13]
+More than a million Brazilians have joined anti - government rallies across the country , ramping up the pressure on embattled president Dilma Rousseff .
+---
+[2016-03-16]
+The decision on Wednesday by president Dilma Rousseff to appoint Lula as her new chief of staff prompted anti - government demonstrations across Brazil , as a secretly recorded phone call between the two suggested his appointment to a ministerial position was motivated by a desire to avoid prosecution in Brazil ’s worst corruption scandal .
+---
+[2016-03-17]
+Hundreds of thousands of Brazilians have been demonstrating against the government over claims that the president , Dilma Rousseff , gave her predecessor , Luiz Inácio Lula da Silva , a cabinet appointment to shield him from prosecution .
+---
+[2016-04-17]
+president Dilma Rousseff has said that she will fight to maintain power despite a devastating impeachment defeat in the lower house .
+---
+[2016-05-09]
+Brazilâ€ ™ s political tumult has descended into farce after a little - known and newly appointed lower house speaker proclaimed the annulment of last monthâ€ ™ s impeachment vote against Dilma Rousseff .
+---
+[2016-05-12]
+Brazilâ€ ™ s Rousseff impeached Brazilâ€ ™ s senate has voted to impeach Brazilâ€ ™ s first female president , Dilma Rousseff , stripping her of her duties halfway through her second term in the countryâ€ ™ s first impeachment in 24 years .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Dmitry_Medvedev ***
+[2007-12-10]
+President Vladimir Putin today ended months of speculation over who will succeed him next year by naming Dmitry Medvedev as his favoured candidate to win Russia 's presidential elections .
+---
+[2007-12-11]
+The prospect of Russia moving into a post - Putin era swiftly receded yesterday when his anointed successor Dmitry Medvedev said he wanted Vladimir Putin to become Russia 's prime minister next year once his term as president expires .
+---
+[2008-03-02]
+Hours after Medvedev 's landslide victory in Sunday 's presidential election - condemned as neither free nor fair by poll observers - riot police crushed an opposition demonstration in Moscow and allowed pro - Kremlin youth activists to march on the US embassy .
+---
+[2008-03-03]
+Russian president Vladimir Putin and his successor Dmitry Medvedev in Red Square in Moscow .
+---
+[2008-05-07]
+Dmitry Medvedev became Russia 's new president and the country 's third post - Soviet leader yesterday during a glittering ceremony at the Kremlin which - formally at least - brought down the curtain on Vladimir Putin 's eight tumultuous years in power .
+---
+[2008-08-12]
+The Russian president , Dmitry Medvedev , today ordered an end to the military offensive in Georgia .
+---
+[2008-11-05]
+Medvedev said it again on Wednesday .
+---
+[2009-04-01]
+Barack Obama and Dmitry Medvedev have pledged to agree cuts in their countries ' nuclear arsenals by December , as part of a " fresh start " in US - Russia relations and a step towards " a nuclear free world " .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Dominique_Strauss-Kahn ***
+[2011-05-13]
+Strauss - Kahn is due back in court on Friday and is expected to plead not guilty .
+---
+[2011-05-14]
+According to the charge sheet compiled by police , Strauss - Kahn is accused of sexually assaulting the hotel maid who came into his room at the Sofitel hotel in midtown Manhattan last Saturday lunchtime .
+---
+[2011-05-15]
+Dominique Strauss - Kahn , head of the International Monetary Fund and the French left 's great hope for president , has been arrested and charged with sexually assaulting and attempting to rape a maid in a New York hotel .
+---
+[2011-05-16]
+Dominique Strauss - Kahn , the head of the International Monetary Fund , is in Rikers Island prison in New York after he was refused bail on charges of attempting to rape a hotel maid , as prosecutors said they were looking into reports he had engaged in a similar attack before .
+---
+[2011-05-18]
+Dominique Strauss - Kahn has resigned as managing director of the International Monetary Fund , saying he wanted to devote " all his energy " to battle the sexual assault charges he faces in New York .
+---
+[2011-05-19]
+Strauss - Kahn resigned from his position at the IMF on Thursday .
+---
+[2011-07-01]
+Even before a court hearing in New York on Friday at which Strauss - Kahn 's bail conditions may be relaxed , French Socialists expressed their joy at reports that New York prosecutors had serious questions about the credibility of his accuser .
+---
+[2011-08-22]
+To be fair , it was not just the fact that Nafissatou Diallo made false claims about her background that undermined her credibility to the point that on Monday the Manhattan district attorney decided to tell the judge to drop the charges Diallo made against Dominique Strauss - Kahn .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Edward_Snowden ***
+[2013-06-10]
+10 June Snowden checks out of his Hong Kong hotel .
+---
+[2013-06-23]
+" Snowden has been trapped in Moscow 's Sheremetyevo airport since 23 June after flying in from Hong Kong , from where he leaked top secret documents detailing NSA surveillance programmes .
+---
+[2013-06-27]
+On Thursday , President Obama declared before the world that he would not permit any diplomatic ' wheeling and dealing ' over my case , " Snowden said in a statement released by WikiLeaks . "
+---
+[2013-07-01]
+Moscow confirmed earlier on Monday that Snowden had applied for political asylum in Russia .
+---
+[2013-07-02]
+Bolivia reacted with fury after a plane carrying the country 's president home from Russia was diverted to Vienna amid suspicions that it was carrying the surveillance whistleblower , Edward Snowden .
+---
+[2013-07-12]
+The US whistleblower Edward Snowden said he has renewed his request to seek political asylum in Russia on Friday , in a meeting with human rights activists at Moscow 's Sheremetyevo airport that marked his first appearance since he fled Hong Kong .
+---
+[2013-08-01]
+The NSA whistleblower Edward Snowden has been granted temporary asylum in Russia and has left the Moscow airport where he had stayed for over a month , his lawyer said on Thursday afternoon .
+---
+[2013-10-31]
+Edward Snowden may be invited to Germany as a witness against the US National Security Agency .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Ehud_Olmert ***
+[2006-01-04]
+Mr Olmert , 60 , became acting prime minister on Wednesday after Mr Sharon suffered a second , massive stroke .
+---
+[2006-03-28]
+The ruling Kadima party won yesterday 's general election in Israel , according to exit polls , but with fewer seats than the acting prime minister , Ehud Olmert , wanted in order for him to claim a mandate for his plan to impose Israel 's final borders .
+---
+[2006-06-12]
+Tony Blair refused yesterday to endorse publicly the plan by the Israeli prime minister , Ehud Olmert , for a partial withdrawal from the West Bank .
+---
+[2006-07-12]
+The Israeli prime minister , Ehud Olmert , described the attack on army posts on the Lebanese border and the capture of the soldiers as an " act of war " by the government in Beirut and warned of a " very painful and far - reaching " response .
+---
+[2007-11-27]
+President George Bush held separate meetings with Ehud Olmert , the Israeli prime minister , and Mahmoud Abbas , the Palestinian president , at the White House in an 11th - hour effort to agree a joint declaration of principles before today 's Annapolis summit - which is shaping up to be the biggest Israeli - Arab conference since Madrid in 1991 .
+---
+[2008-01-30]
+Nine months ago the Winograd commission , a government - appointed inquiry , published a damning first report into Israel 's conduct in the first days of the 2006 war and held the prime minister , Ehud Olmert , responsible for " very serious failings " .
+---
+[2008-03-03]
+The Israeli prime minister , Ehud Olmert , warned today that more fighting in Gaza was imminent and admitted one of his goals was now to " weaken " the Islamist movement Hamas .
+---
+[2008-05-21]
+Officials said the process began after the Israeli prime minister , Ehud Olmert , visited Turkey in February . "
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Enron ***
+[2001-09-11]
+The Enron debacle has been a bitter blow to the American psyche in the wake of September 11 .
+---
+[2001-12-02]
+Enron filed for bankruptcy on December 2 , the biggest bankruptcy in US history .
+---
+[2002-01-29]
+Andersen was the auditor for Enron and the collapse of the US energy giant has put the spotlight on the firm 's links with the British government .
+---
+[2002-01-30]
+Lord Wakeham is facing pressure to step down as chairman of the press complaints commission because of his links to the Enron scandal .
+---
+[2002-01-31]
+Lord Wakeham today stepped aside as chairman of the press complaints commission in order to answer questions about his involvement with the collapsed energy giant Enron .
+---
+[2002-02-07]
+Airtours chairman David Crossland yesterday angrily denied that Andersen - the accountancy firm at the heart of the Enron scandal - appeared to be running the holiday company .
+---
+[2002-02-14]
+Also today , Enron sacked two of its top accounting officers , chief accounting officer , Richard Causey , and chief risk officer , Richard Buy .
+---
+[2002-09-11]
+After confidence was shattered by the September 11 attacks on the US and the collapse of Enron and WorldCom , the theme of this year 's World Economic Forum in Davos , " Building Trust " , is appropriate .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Hamid_Karzai ***
+[2001-12-05]
+Hamid Karzai , a Pashtun leader fighting the Taliban in their final stronghold of Kandahar , will head the interim council .
+---
+[2001-12-22]
+As the battle for Tora Bora raged , Afghan factions in Germany approved the appointment of respected tribal leader Hamid Karzai as an interim prime minister to head a 30-member broad - based post - Taliban cabinet that will take power on December 22 .
+---
+[2004-12-07]
+Hamid Karzai was sworn in today as Afghanistan 's first popularly elected president , promising to help the impoverished country leave behind its brutal past , shore up its young democracy and confront the challenges of terrorism and the drugs trade .
+---
+[2009-08-20]
+Despite calls by the US for the leading candidates in Afghanistan 's election not to claim victory , both Hamid Karzai and Abdullah Abdullah said they won yesterday 's vote .
+---
+[2009-10-31]
+The decision by the Independent Election Commission ( IEC ) to declare Karzai president , taken just one day after his rival Abdullah Abdullah announced he would not participate in a fresh vote scheduled for Saturday , was welcomed by the west , despite doubts about the strength of Karzai 's mandate .
+---
+[2009-11-02]
+Pressure was growing on Hamid Karzai today to form a unity government after the Afghan president was declared the winner of the country 's election following the cancellation of a runoff vote .
+---
+[2009-11-19]
+President Karzai I became President Karzai II this morning at an inauguration ceremony that was part splendid , part shabby and awkward for everyone .
+---
+[2010-01-28]
+The US and Britain have urged Karzai to get his second - term administration in place ahead of an international conference on Afghanistan to be held in London on 28 January .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Hassan_Rouhani ***
+[2013-06-14]
+Iran 's outgoing president , Mahmoud Ahmadinejad , has been summoned to a criminal court in Tehran to answer unspecified charges following the victory of the moderate cleric Hassan Rouhani in Friday 's presidential election .
+---
+[2013-06-15]
+The moderate cleric Hassan Rouhani has won the Iranian election and will succeed Mahmoud Ahmadinejad as president , Iran 's interior minister announced on national television on Saturday .
+---
+[2013-08-04]
+The inauguration of a new president in Iran is an opportunity for sending messages and Hassan Rouhani did not waste it .
+---
+[2013-09-17]
+Iran 's supreme leader on Tuesday struck a conciliatory tone by saying there was room for flexibility in diplomacy , which many have interpreted as his public backing for Rouhani 's new attempt to improve Iran 's relations with the west , especially conducting direct talks with the US .
+---
+[2013-09-18]
+Iran 's most prominent human rights activist was released from jail on Wednesday along with several other political prisoners in what appears to be the most tangible sign of change yet under the new Iranian president , Hassan Rouhani .
+---
+[2013-09-19]
+The White House has left the door open to a personal encounter between Barack Obama and Iran 's new reform - minded president , Hassan Rouhani , at the UN general assembly next week , amid signs that western powers plan to seize on recent diplomatic overtures from Tehran .
+---
+[2013-09-20]
+On Friday , Rouhani , who was elected president as a moderate candidate in June and took up the post last month , called for " constructive interaction with the world " in an opinion article published by the Washington Post .
+---
+[2013-09-24]
+A much - anticipated meeting between the US president Barack Obama and the Iranian president Hassan Rouhani did not happen on Tuesday , according to White House officials .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Hu_Jintao ***
+[2002-11-15]
+Yesterday China 's new Communist party general secretary Hu Jintao said that his team would have to " live up to the expectations of the people throughout the country " .
+---
+[2005-11-08]
+But as China 's Hu Jintao tucked into his filet de sole pompadour during the banquet at Buckingham Palace on Tuesday , and again as he flew back to Beijing yesterday after his three - day visit , Britain 's security services were left pondering a more delicate issue : how many of the president 's entourage had been left behind ?
+---
+[2005-11-09]
+Noisy protests took place outside Downing Street today as Tony Blair held talks with the Chinese president , Hu Jintao .
+---
+[2006-04-20]
+The Chinese president , Hu Jintao , met his US counterpart George Bush today , in a first official visit to Washington that comes amid tensions over trade , human rights and the status of Taiwan .
+---
+[2007-10-15]
+President Hu Jintao admitted yesterday that China 's Communist party had failed to live up to the expectations of the people and promised a more sustainable and accountable policy of development .
+---
+[2009-09-22]
+Chinese president Hu Jintao is expected to lay down the gauntlet on climate change in New York today with a promise to reduce its carbon intensity — the rate at which emissions increase , while still being able to grow its economy .
+---
+[2011-01-18]
+The last time Hu Jintao arrived in Washington , back in 2006 , he was given a White House working lunch , and by all accounts never forgave George W Bush for the perceived insult .
+---
+[2011-01-19]
+Campaigners for human rights in China today called on Barack Obama to press Hu Jintao on the issue during the Chinese president 's state visit .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Jacob_Zuma ***
+[2006-05-08]
+The former South African deputy president Jacob Zuma yesterday apologised to the nation for having unprotected sex with a woman who was HIV positive .
+---
+[2007-12-16]
+Supporters of Mbeki 's arch - rival , Jacob Zuma , dominated the opening of the ANC conference , exuding confidence that victory was certain as more than half of the 4,000 delegates were on their feet singing for Zuma and demanding that Mbeki go .
+---
+[2007-12-17]
+Yesterday , 96 delegates from Gauteng province , mostly Zuma supporters , were disqualified from the voting roll of about 4,000 delegates .
+---
+[2007-12-18]
+The ruling African National Congress finally held its leadership election today , with the populist but controversial Jacob Zuma widely predicted to hand President Thabo Mbeki a humiliating defeat .
+---
+[2008-09-18]
+The African National Congress national executive began a three - day meeting at which Mbeki 's future will be decided after a high court judge accused the president and senior justice officials of being part of an illegal conspiracy to charge Zuma , the ANC 's president , with corruption for political ends .
+---
+[2009-04-22]
+" The ANC is widely expected to win an election on 22 April and choose Zuma as South Africa 's next head of state .
+---
+[2010-03-03]
+That 's it for today 's coverage of Jacob Zuma 's state visit .
+---
+[2012-05-24]
+Jacob Zuma , the South African president , is going to court to argue that a painting that depicted him with an exposed penis should be banned .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: John_Boehner ***
+[2012-01-01]
+If Boehner can not control his own Republican party , it is difficult to see how a deal is going to be reached before 1 January .
+---
+[2012-12-20]
+The standoff between the White House and Congress over the ' fiscal cliff ' turned into a full - blown crisis on Thursday night when Republican House Speaker John Boehner was publicly humiliated , unable to command enough support to secure passage of his own bill .
+---
+[2012-12-25]
+Conservatives helped defeat Boehner 's " Plan B " compromise on the fiscal cliff before Christmas .
+---
+[2013-01-01]
+Speaker John Boehner then killed a vote last night , in the fallout from the fiscal cliff legislation .
+---
+[2015-01-06]
+In a sign of divisions in the party , John Boehner , the speaker of the House of the Representatives , is expected to face a challenge to his re - election from Tea Party - aligned Republicans .
+---
+[2015-02-27]
+John Boehnerâ€ ™ s first attempt to keep the Department of Homeland Security from running out of money at midnight failed in the House of Representatives after more than 50 Republicans baulked at his plan to fund it for just three more weeks .
+---
+[2015-03-03]
+In remarks to his caucus on Tuesday just before Israeli prime minister Binyamin Netanyahu addressed a joint session of Congress , Boehner said he didnâ€ ™ t want to risk a DHS shutdown , which he said â€œwasnâ€ ™ t an optionâ€ � with the current level of threats to national security .
+---
+[2015-10-08]
+After the chaos of Thursday afternoonâ€ ™ s abortive vote to choose a Republican nominee to replace John Boehner as speaker of the House of Representatives , momentum grew behind a campaign to draft the former vice - presidential candidate Paul Ryan to the job .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: John_Kerry ***
+[2003-09-11]
+But this first election since the September 11 attacks has raised the stakes , and those tuning in to Mr Kerry for the first time [ on Thursday ] needed reassurance that the Democrats can be not just smart about defence , but strong .
+---
+[2004-02-03]
+On the eve of the vote , Senator Kerry was the party 's clear favourite to take on George Bush in November , with two wins under his belt and a lead in five of the seven states going to the polls today .
+---
+[2004-02-17]
+Fresh allegations have arisen of a dirty tricks campaign against John Kerry after it appeared that a photograph of the US presidential hopeful sitting next to anti - Vietnam war activist Jane Fonda was doctored .
+---
+[2004-03-02]
+The first poll since John Kerry secured the Democratic nomination in the Super Tuesday primaries shows just how close the presidential race is likely to be .
+---
+[2004-09-11]
+It is a cheap blue or red plastic badge of allegiance - not to the Manhattan fashion power players of Donna Karan , Calvin Klein or Ralph Lauren , but to presidential candidates George Bush or John Kerry .
+---
+[2004-09-30]
+Thursday night 's encounter between George Bush and John Kerry at the University of Miami marked the first of three 90-minute televised presidential debates .
+---
+[2004-11-02]
+Two of the three swing states have been called : Florida for the incumbent , Mr Bush , and Pennsylvania to his challenger , John Kerry .
+---
+[2004-11-03]
+President George Bush has won a second term as US president after the Democratic challenger , John Kerry , today called him to concede defeat in the bitterly - contested race for the White House , the Associated Press has reported .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Julian_Assange ***
+[2010-12-06]
+Jennifer Robinson , a solicitor with Finers Stephens Innocent which represents Assange , said this evening : " We have a received an arrest warrant [ related to allegations in Sweden ] .
+---
+[2010-12-07]
+Julian Assange , the founder of WikiLeaks , is expected to appear in a UK court today after his lawyers said he would meet police to discuss a European arrest warrant from Sweden relating to alleged sexual assaults .
+---
+[2010-12-08]
+Julian Assange 's extradition to Sweden has nothing to do with WikiLeaks , it 's all about rape –
+---
+[2010-12-14]
+The WikiLeaks founder , Julian Assange , is to remain in jail after the Swedish authorities decided to challenge a decision by a British court to grant him bail on allegations of rape in Stockholm .
+---
+[2010-12-15]
+Sweden has decided to fight a British judge 's decision to grant bail to WikiLeaks founder Julian Assange , who has spent more than a week in prison over sexual assault allegations involving two Swedish women .
+---
+[2010-12-25]
+Assange spent Christmas at a manor home on the Norfolk - Suffolk border owned by Vaughan Smith , a former army captain and the founder of the Frontline Club for journalists .
+---
+[2012-06-19]
+Julian Assange , the founder of WikiLeaks , remains trapped in the Ecuadorean embassy in London since 19 June , as he awaits the government of Ecuador 's decision on whether to grant him political asylum .
+---
+[2012-08-19]
+The diplomatic standoff between Britain and Ecuador deepened on Sunday after WikiLeaks founder Julian Assange used an extraordinary appearance on the first - floor balcony of Ecuador 's London embassy to berate the United States .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Lance_Armstrong ***
+[2005-07-02]
+The green is awarded to the runner - up in the opening stage and was given to Armstrong after he finished second on Saturday to his fellow American David Zabriskie , who retained the yellow jersey yesterday , when Jan Ullrich 's dire start to the race continued , through no fault of his own this time .
+---
+[2005-07-23]
+Lance Armstrong will ride into Paris and retirement today as the winner of the Tour de France for the seventh year in a row , with his race complete after he won his first victory of the year in the 34-mile time - trial stage .
+---
+[2005-07-24]
+On Sunday , Lance Armstrong broke his own record to become the first man to win the Tour de France seven times .
+---
+[2009-01-18]
+Armstrong , the seven - time Tour de France winner , is returning to cycling after three years in retirement , and the Adelaide event , which begins on January 18 , will be his first competitive road race .
+---
+[2009-05-09]
+That time - frame would appear to put Armstrong 's appearance in the Giro D'Italia in real jeopardy - the start of the race is less than seven weeks away on 9 May .
+---
+[2013-01-15]
+Oprah Winfrey has confirmed that after years of furious denials and threats Lance Armstrong finally " came clean " over his doping past during their two - and - a - half hour interview , due to be broadcast later this week .
+---
+[2013-01-17]
+In a television interview with Oprah Winfrey broadcast on Thursday night , Armstrong said it would not have been possible to win the titles without cheating , such was the prevalence of performance - enhancing drugs in the sport at the time .
+---
+[2013-01-18]
+It was not hard to make the obvious comparisons between the Lance Armstrong Tours of 2000 - 2005 and the guided tour Lance Armstrong gave Oprah Winfrey around his world of cheating , lying and bullying .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Mahmoud_Ahmadinejad ***
+[2007-04-04]
+The 15 British sailors and marines are - in the words of President Mahmoud Ahmadinejad - pardoned .
+---
+[2007-09-24]
+President Ahmadinejad is due to present a preview today at a forum at New York 's Columbia University .
+---
+[2009-01-28]
+The Iranian president Mahmoud Ahmadinejad said today he was waiting patiently to see what the Obama administration comes up with .
+---
+[2009-06-12]
+Aghazadeh has worked closely in the past with Mir Hossein Mousavi , who claims that he and not Ahmadinejad won the 12 June presidential election .
+---
+[2009-06-13]
+A second four - year term for Ahmadinejad torpedoes prospects for the freedoms and economic competence Mousavi had promised Iran 's 72 million people , creating a vibrant , youth - driven " green " reformist movement which had been peaceful until last night 's clashes .
+---
+[2009-06-15]
+Shots have been fired at an opposition rally in Tehran where more than 100,000 Iranians were protesting against the re - election of President Mahmoud Ahmadinejad .
+---
+[2009-06-17]
+The nation 's huge river would not leave any opportunity for the expression of dirt and dust , " said Mahmoud Ahmadinejad in a rather elliptical reference to the surging protests on the streets of Tehran .
+---
+[2009-06-18]
+The nation 's huge river would not leave any opportunity for the expression of dirt and dust , " said Mahmoud Ahmadinejad in a rather elliptical reference to the surging protests on the streets of Tehran .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Marco_Rubio ***
+[2016-02-01]
+Marco Rubio and Ted Cruz , the two Republican candidates each vying to prove themselves the most viable alternative to Donald Trump , have been locked in a heated battle over immigration in the run - up to the Iowa caucuses on Monday night .
+---
+[2016-02-16]
+Gowdy , who is campaigning across South Carolina with Rubio this week , called on Cruz to formally rebuke the tactics in a statement on Tuesday .
+---
+[2016-02-20]
+In South Carolina on Saturday , Rubio inched just ahead of Cruz to clinch second place by less than a percentage point .
+---
+[2016-02-22]
+Ted Cruz fired a top aide on Monday after he promoted a false story questioning Marco Rubioâ€ ™ s commitment to the Bible , a move the Texas senator described as â€œa grave errorâ€ � .
+---
+[2016-02-23]
+On paper , Rubio would be well suited for a strong finish in its 23 February caucus , although his standing in the Republican race has grown more precarious after a disappointing showing in New Hampshire .
+---
+[2016-03-01]
+Trump won almost 35 % of the Republican primary vote in Webb County , where Laredo is the county seat , comfortably ahead of Marco Rubio ( 28.4 % ) and Ted Cruz ( 28.2 % ) , the Hispanic senator from Texas who finished first in the state overall .
+---
+[2016-03-10]
+Although Bush was scheduled to meet with Rubio , as well as Ted Cruz and John Kasich , on Thursday in Miami , some close to Bush said a Rubio endorsement ahead of Tuesday would be unlikely .
+---
+[2016-03-15]
+On 15 March , the names of the remaining presidential candidates â€ “ Donald Trump , Ted Cruz , Marco Rubio and John Kasich on the Republican side , Hillary Clinton and Bernie Sanders for the Democrats â€ “ will be on ballot papers in five states and one US territory .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Margaret_Thatcher ***
+[2001-06-07]
+Thatcher fan site 10 Downing Street biography of Baroness Thatcher Interactive guide Election countdown : the key dates up to June 7 Interactive quizzes
+---
+[2013-04-08]
+Baroness Margaret Thatcher died on Monday .
+---
+[2013-04-09]
+What did Margaret Thatcher do for women ?
+---
+[2013-04-10]
+Galloway , who claimed he would have " a lot to say " about the " wicked and divisive " former prime minister , objected to planned changes to the Commons ' sitting times on Wednesday to allow for Thatcher 's grand ceremonial funeral at St Paul 's Cathedral .
+---
+[2013-04-11]
+This was the week that Margaret Thatcher died .
+---
+[2013-04-12]
+This was the week that Margaret Thatcher died .
+---
+[2013-04-16]
+Lady Thatcher , Britain 's first female prime minister , was borne to St Paul 's Cathedral for a ceremonial funeral as thousands lined central London 's streets to witness her final journey .
+---
+[2013-04-17]
+The funeral of Britain 's most influential and controversial postwar prime minister , Margaret Thatcher , will take place on Wednesday at St Paul 's Cathedral in a ceremonial service with full military honours .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Michael_Jackson ***
+[2003-02-03]
+The curtain rose yesterday on Catherine Zeta Jones and Michael Douglas 's privacy case against Hello!. P15 DAILY MIRROR Michael Jackson has admitted he sleeps with children in his bedroom in an ITV documentary .
+---
+[2009-06-25]
+Jackson died on 25 June .
+---
+[2009-06-26]
+Last night Jackson 's manager , Frank DiLeo , described breaking the news of their father 's death to Jackson 's three children , Michael , 12 , Paris , 11 , and Prince Michael , seven , known as " Blanket " .
+---
+[2009-06-27]
+Last night Jackson 's manager , Frank DiLeo , described breaking the news of their father 's death to Jackson 's three children , Michael , 12 , Paris , 11 , and Prince Michael , seven , known as " Blanket " .
+---
+[2009-06-28]
+The nanny who looked after Michael Jackson 's three children said today the star had his stomach pumped " many times " after taking a dangerous cocktail of prescription drugs .
+---
+[2009-06-29]
+Katherine Jackson yesterday was granted temporary custody by a Los Angeles court of the singer 's three children .
+---
+[2009-06-30]
+In New York today , long lines of Jackson fans formed from early morning to pay homage at Harlem 's Apollo theatre , where the singer 's career took off at the age of 9 when he won a talent contest .
+---
+[2009-07-07]
+Michael Jackson 's memorial service will take place at Los Angeles 's Staples Centre on Tuesday .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Michelle_Obama ***
+[2008-08-25]
+But Michelle Obama , Barack 's wife , gave an awfully good speech at the Democratic National Convention here Monday night .
+---
+[2008-08-26]
+Live from the Democratic convention The carefully choreographed effort to keep the Democrats unified kicked off with glitz , as tens of thousands of convention delegates and others descended on the Pepsi Centre in Denver to cheer first Edward Kennedy and then Michelle Obama , who offered an olive branch to supporters of Hillary Clinton .
+---
+[2009-04-01]
+Michelle Obama joined Sarah Brown on a visit to a cancer care centre today .
+---
+[2016-07-18]
+A number of lines in the robustly applauded speech delivered by Melania Trump at the Republican national convention on Monday night appear to have been lifted verbatim from a speech Michelle Obama delivered at the 2008 Democratic convention .
+---
+[2016-07-19]
+Melania Trumpâ€ ™ s speech at the Republican convention bore more than a passing resemblance to that delivered by Michelle Obama at the 2008 Democratic convention .
+---
+[2016-07-25]
+Michelle Obamaâ€ ™ s speech endorsing Hillary Clinton at the Democratic convention was , as Barack said , incredible .
+---
+[2016-10-13]
+Obama said on Thursday .
+---
+[2016-10-14]
+Minutes before the Florida rally where Trump declared war on women and the media , Michelle Obama offered a diametrically opposite view of reality and morality at a campaign appearance in New Hampshire .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Mitt_Romney ***
+[2008-01-29]
+Rudy Giuliani 's hopes of becoming the next US president effectively ended last night after exit polls showed him trailing rivals John McCain and Mitt Romney in the all - important Florida primary .
+---
+[2008-02-05]
+For the Republicans , John McCain won a commanding victory over Mitt Romney , with Mike Huckabee doing better than expected in third place .
+---
+[2011-11-06]
+Romney and his running - mate , Paul Ryan , hit the campaign trail in Ohio , a crucial barometer of voting intention and a must win for both candidates in the 6 November general election .
+---
+[2012-02-28]
+Republican frontrunner Mitt Romney admitted he has made " mistakes " in his campaign as polls suggested he is at risk of losing the crucial Michigan primary on Tuesday to his main rival Rick Santorum .
+---
+[2012-10-03]
+It 's fairly clear that Mitt Romney " won " Wednesday night 's debate against President Obama .
+---
+[2012-10-16]
+In Tuesday 's presidential debate , Mitt Romney and Barack Obama will claim they have opposing visions for America 's future .
+---
+[2012-10-22]
+Mitt Romney and Barack Obama went into Monday night with dramatically different strategies .
+---
+[2012-11-06]
+The US presidential debates are over and , with less than two weeks before the election on 6 November , it 's time for Barack Obama and Mitt Romney to hit the hustings in earnest .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Morgan_Tsvangirai ***
+[2007-03-11]
+Tandare was shot dead by police at the prayer rally last Sunday where Morgan Tsvangirai and others from the Movement for Democratic Change were arrested and later beaten . '
+---
+[2008-03-29]
+Tsvangirai 's Movement for Democratic Change has said he won the March 29 vote outright and accused Mugabe — in power for 28 years — of delaying results to rig victory .
+---
+[2008-06-22]
+The UN security council last night warned Robert Mugabe that a free and fair election in Zimbabwe was " impossible " , after the opposition leader Morgan Tsvangirai quit the presidential race and sought refuge in the Dutch embassy in Harare amid escalating violence .
+---
+[2008-06-23]
+He pointed out that , despite Morgan Tsvangirai 's withdrawal from the presidential race , his Movement for Democratic Change had won parliamentary elections in March . "
+---
+[2008-06-27]
+Tsvangirai faces the run - off election against Mugabe on June 27 .
+---
+[2008-09-15]
+· Robert Mugabe will remain president with Morgan Tsvangirai as prime minister .
+---
+[2009-02-11]
+As Morgan Tsvangirai was finally sworn in as Prime Minister of Zimbabwe yesterday , the Times summarised the moment as " a sour oath of office , an ice - cold embrace ... then joy and jubilation " . "
+---
+[2009-03-06]
+Morgan Tsvangirai , Zimbabwe 's prime minister , survived a car crash yesterday that killed his wife , Susan , near Harare .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Nawaz_Sharif ***
+[1999-10-12]
+The president has only to think back to October 12 1999 , when Mr Sharif , then prime minister , dismissed General Musharraf as head of the army while he was out of the country .
+---
+[1999-10-13]
+The International Monetary Fund ( IMF ) said it had suspended the loan discussions it had been holding before the coup with Pakistan 's prime minister , Nawaz Sharif , and said talks would not resume until democracy was restored .
+---
+[2007-01-08]
+But this time the Saudis wanted Sharif home in time to contest the January 8 elections .
+---
+[2007-09-10]
+The former Pakistani prime minister Nawaz Sharif was back in exile in Saudi Arabia last night after a dramatic airport showdown in Pakistan that bruised his hopes of ousting President Pervez Musharraf .
+---
+[2007-11-24]
+Musharraf ejected Sharif , whom he deposed as prime minister in a 1999 coup , from Pakistan when he tried to return last September .
+---
+[2007-11-25]
+Pakistan 's military ruler General Pervez Musharraf will allow his bitter rival Nawaz Sharif to return home tomorrow , ending seven years of exile in Saudi Arabia , Musharraf 's spokesman said .
+---
+[2008-02-18]
+The main contest in the Pakistani general election on February 18 is seemingly between the Pakistan People 's Party ( PPP ) , led by late Benazir Bhutto 's husband , Asif Zardari ; the pro - Musharraf Pakistan Muslim League - Q ( " Q " for " Qaid - e Azam " , the honorific for the state 's founder , Muhammad Ali Jinnah ) ; and the opposition Pakistan Muslim League - N ( " N " for Nawaz Sharif , former prime minister ) .
+---
+[2013-05-11]
+Although final verified results were still hours away , the country 's television networks projected Sharif heading for an ultimate tally of around 110 seats that should give him the parliamentary majority he said was needed to fix Pakistan 's ailing economy .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Nelson_Mandela ***
+[2013-12-05]
+There are to be five days of national mourning for Nelson Mandela â€ “ not in South Africa , but in India .
+---
+[2013-12-06]
+There are to be five days of national mourning for Nelson Mandela â€ “ not in South Africa , but in India .
+---
+[2013-12-07]
+Nelson Mandela was a politician .
+---
+[2013-12-08]
+The body of Nelson Mandela has arrived at his ancestral home in Qunu , in the rolling hills of South Africa 's Eastern Cape , for the anti - apartheid leader 's state funeral on Sunday .
+---
+[2013-12-09]
+A former Labour cabinet minister has asked Conservatives to remember their party 's " craven indulgence " of South Africa 's apartheid regime as MPs including Gordon Brown and David Cameron gathered to pay tribute to Nelson Mandela in the House of Commons .
+---
+[2013-12-10]
+Eyebrows were raised when Tutu 's name did not appear on the order of service for Mandela 's national memorial service in Johannesburg on Tuesday .
+---
+[2013-12-11]
+On Wednesday South Africa 's leading deaf association denounced Jantjie as a fake , saying he was inventing signs , and described the episode as an insult to deaf people and Mandela himself .
+---
+[2013-12-15]
+The Johannesburg memorial service will be a more international affair than Mandela 's state funeral , which will take place in his tiny home village of Qunu in the Eastern Cape on Sunday .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Osama_bin_Laden ***
+[2001-09-11]
+Osama bin Laden  Shortly before the September 11 attacks
+---
+[2001-10-07]
+Osama bin Laden :
+---
+[2001-10-10]
+The al - Qaida network Osama bin Laden Leader of al - Qaida , and America 's public enemy number one .
+---
+[2002-09-11]
+If it 's proved that Osama bin Laden was behind the 11 September attacks , I would not be proud of him .
+---
+[2003-09-11]
+For the man who brought the world exclusive video tapes of Osama bin Laden after September 11 and who interviewed the al - Qaida leader in the run up to the Afghan war has now been accused of being part and parcel of that group .
+---
+[2004-09-11]
+Nor has Bin Laden been capable so far of mounting further attacks in the US since September 11 .
+---
+[2011-05-01]
+It was a bittersweet moment for George Bush when President Barack Obama phoned him late on Sunday to tell him Osama bin Laden was dead .
+---
+[2011-05-02]
+The Taliban has claimed responsibility for a bomb attack on a US convoy in Peshawar , the first attack on Americans in Pakistan since the death of al - Qaida leader Osama bin Laden on 2 May .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Oscar_Pistorius ***
+[2013-02-14]
+Steenkamp was killed in Pistoriusâ€ ™ home in Pretoria in the early hours of 14 February 2013 .
+---
+[2013-02-15]
+" Oscar Pistorius has appeared in court here in Pretoria this morning formally charged with the murder of Reeva Steenkamp .
+---
+[2013-02-19]
+Pistorius appeared in a South African court on Tuesday for his second appearance over the death of his model girlfriend Reeva Steenkamp and was formally charged with premeditated murder .
+---
+[2013-02-22]
+Pistorius , 26 , was granted bail on Friday and his case postponed until 4 June .
+---
+[2014-02-14]
+Welcome to day three of the trial of Oscar Pistorius , who is accused of murdering his girlfriend , Reeva Steenkamp , on 14 February last year .
+---
+[2014-03-03]
+The mother of Reeva Steenkamp , the woman shot dead by Oscar Pistorius , has told how the Paralympic athlete failed to acknowledge her when his murder trial began on Monday .
+---
+[2014-03-04]
+The trial of Oscar Pistorius , who denies the murder of his girlfriend , Reeva Steenkamp , is – according to the Independent – " the most eagerly awaited trial in South African legal history " .
+---
+[2014-10-21]
+Now everything rests in the hands of Judge Thokozile Masipa , who will return to court on Tuesday morning to hand down sentence on Oscar Pistorius .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Phil_Spector ***
+[2002-12-25]
+At the very end of the sessions , Spector called everyone into the studio - musicians , singers , engineers , secretaries , his chauffeur , his bodyguard , a stray journalist - and arranged us around a microphone before conducting the mass shout of " Happy Christmas ! " with which the record ends .
+---
+[2003-02-03]
+Lana Clarkson , 40 , died when a gun went off in her mouth as she sat in the foyer of Mr Spector 's mansion early on February 3 , 2003 .
+---
+[2003-02-04]
+The woman veteran record producer Phil Spector has been charged with murdering was named today as Lana Clarkson , an actress who gained a cult following from starring in Hollywood B - movies .
+---
+[2006-12-25]
+The best song on the best festive album ever , A Christmas Gift For You from Phil Spector .
+---
+[2007-04-25]
+More than four years after an actor and part - time waitress was found dead of a single gunshot wound in the hallway of Phil Spector 's palatial home , the legendary 1960s record producer was yesterday described as " sinister and deadly " on the first day of his trial in Los Angeles .
+---
+[2007-04-26]
+We are confident that you 'll be convinced beyond a reasonable doubt that Phil Spector is guilty of the murder of Lana Clarkson . "
+---
+[2007-09-26]
+Record producer Phil Spector 's murder trial today ended in a mistrial after the jury declared itself deadlocked .
+---
+[2008-12-25]
+Like their idol Phil Spector , the group has recently written what is in name a Christmas album - the six - song A Snowflake Fell (
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Prince_William ***
+[2003-06-21]
+Wearing a pink dress and sporting a beard , Aaron Alexandra Barschak , a self - styled comedy terrorist , gained entry into Prince William 's 21st birthday party at Windsor Castle on Saturday night , and proceeded to the stage , where he began to shout and rant ...
+---
+[2003-06-23]
+THE NEWS IN 90 SECONDS POLICE APOLOGISE OVER ROYAL INTRUDER Scotland Yard apologised to the royal family today for the " appalling " breach of security which allowed intruder Aaron Barschak to gain access to Prince William 's 21st birthday party at Windsor Castle .
+---
+[2003-06-24]
+With several members of the royal family scheduled to attend , the Metropolitan police are also desperate to avoid any repeat of last weekend 's embarrassing security breach at Windsor Castle when a stand - up comedian dressed as Osama bin Laden gatecrashed Prince William 's 21st - birthday party .
+---
+[2010-11-17]
+More than 120 of today 's national newspaper pages are devoted to the royal engagement of Prince William and Kate Middleton .
+---
+[2011-04-22]
+David Cameron has wished Prince William and Kate Middleton a " long and happy life together " ahead of the royal wedding on Friday , which he will attend with his wife , Samantha .
+---
+[2011-04-28]
+Prince William and Kate Middleton have attended a rehearsal for their wedding at Westminster Abbey .
+---
+[2011-04-29]
+The wedding of Prince William to Catherine Middleton on 29 April has focused attention on the issue .
+---
+[2011-07-01]
+The Canadian capital city of Ottawa is preparing for an influx of up to 500,000 visitors hoping for a glimpse of the guests of honour â€ “ Prince William , the country 's probable future king , and his bride , the Duchess of Cambridge â€ “ at its Canada Day celebrations on Friday .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Robert_Mugabe ***
+[2000-06-24]
+In the run - up to the elections on June 24 - 25 , Mr Mugabe 's Zanu - PF party has unleashed a widespread campaign of violence against the opposition that has taken 30 lives .
+---
+[2002-03-09]
+The opposition Movement for Democratic Change is banking on a massive turnout during the two days of voting to produce such a decisive defeat for Mr Mugabe that neither intimidation nor vote rigging can reverse it .
+---
+[2002-03-13]
+Robert Mugabe has won the most bitter presidential election in Zimbabwe 's history , in a vote that opposition and observers said was deeply marred by irregularities and violence .
+---
+[2005-03-31]
+Mr Mugabe 's Zanu - PF party won 78 of the 120 seats contested in the March 31 elections that the opposition and many international organisations dismiss as rigged .
+---
+[2008-03-29]
+Mugabe came second to opposition leader , Morgan Tsvangirai , in the country 's presidential election on March 29 .
+---
+[2008-03-30]
+Robert Mugabe was desperately trying to cling to power last night , despite his clear defeat in Zimbabwe 's presidential election , by blocking the electoral commission from releasing official results and threatening to treat an opposition claim of victory as a coup .
+---
+[2008-06-27]
+Mugabe faces a presidential election run - off on June 27 against Tsvangirai , the leader of the opposition Movement for Democratic Change ( MDC ) .
+---
+[2008-09-15]
+· Robert Mugabe will remain president with Morgan Tsvangirai as prime minister .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Rupert_Murdoch ***
+[2011-07-06]
+Shares in News Corporation and BSkyB fell as the News of the World phone hacking scandal put Rupert Murdoch , and his bid to take control of the satellite broadcaster , under fresh scrutiny .
+---
+[2011-07-07]
+The closure of the News of the World is a breathtaking , but entirely proportionate , response to the crisis that was engulfing the paper and Rupert Murdoch 's News Corporation .
+---
+[2011-07-10]
+I was proud to have Rupert Murdoch 's confidence during the periods I was responsible for The Times , the Sunday Times , The Sun and News of the World .
+---
+[2011-07-12]
+Rupert Murdoch , the News Corporation chairman and chief executive , has been asked to appear before MPs on the Commons culture select committee to answer questions about the phone - hacking scandal along with his son James and News
+---
+[2011-07-13]
+Rupert Murdoch 's media group News Corporation bowed to pressure from the public and parliament on Wednesday and withdrew its bid to take full control of pay - TV company BSkyB. All three main political parties were poised to call on News Corp to abandon its offer in a vote in the House of Commons later on Wednesday .
+---
+[2011-07-19]
+Murdoch and his son James appeared before the Commons culture , media and sport select committee yesterday , answering questions from MPs on the News of the World phone - hacking scandal .
+---
+[2012-04-25]
+Rupert Murdoch has admitted to the Leveson inquiry there was a " cover - up " at News International over the phone - hacking scandal .
+---
+[2012-04-26]
+Rupert Murdoch has admitted to the Leveson inquiry there was a " cover - up " at News International over the phone - hacking scandal .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Saddam_Hussein ***
+[2001-09-11]
+Seven in 10 Americans continue to believe that Iraq 's Saddam Hussein had a role in the 11 September 2001 attacks , even though the Bush administration and congressional investigators say they have no evidence of this .
+---
+[2002-09-11]
+He acknowledged it was impossible to know the exact extent of the links and also said there was no evidence linking Saddam Hussein 's regime to al - Qaida " in circumstances concerning the September 11 attack " .
+---
+[2002-09-24]
+Tony Blair today told an emergency session of parliament that Saddam Hussein 's programme of weapons of mass destruction was " up and running " .
+---
+[2003-03-20]
+The United States attempted to kill Saddam Hussein with a cruise missile attack in the early hours of this morning , in what President George Bush said were the " early stages " of a US - British invasion of Iraq .
+---
+[2003-04-07]
+MI6 believes Saddam is alive The world was waiting to learn whether the Iraqi leader , Saddam Hussein , and his two sons were dead or alive following a US - led " decapitation " strike on Monday when four 2,000 lb bombs destroyed a Baghdad restaurant .
+---
+[2003-04-09]
+After Saddam Hussein , what ? "
+---
+[2003-04-10]
+US marines attacked by suicide bomb , and looting rages out of control in capital and Basra · The Iraqi Shia leader Abdul Majid al - Khoei and his aide assassinated in Najaf Casualties so far · US - 105 killed ( 12 non - combat ) ; 11 missing ; 399 injured ; 7 PoWs · UK - 30 killed ( 22 non - combat ) ; 74 injured · Iraq military - about 2,320 ( coalition ests ) ; 9,000 PoWs · Iraqi civilians - ( Iraqi ests ) 1,252 killed ; 5,103 injured World reacts · Egypt 's Hosni Mubarak calls for Iraqis to govern Iraq as soon as possible · France hails end of Saddam Hussein 's regime and says humanitarian aid is now the priority · George Bush and Tony Blair use a new TV station called " Towards Freedom " to broadcast to the Iraqi people · Palestinian Hamas militants vow to intensify Israel attacks · UN 's secretary general , Kofi Annan , says Iraq has no functioning government Rebuilding Iraq · Iran says 100,000 Iraqi refugees have fled to its border in past two days · Foreign ministers of Germany and Japan call for UN resolution on the reconstruction of Iraq Inflation · Iraqi dinars worth 3.5p , showing Saddam Hussein 's head , change hands for £ 35 on the internet What they say · " The game is over ...
+---
+[2003-09-11]
+There was never any evidence of a link between Iraq and al - Qaida , between Saddam Hussein and September 11 .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Sarah_Palin ***
+[2008-08-29]
+Republican presidential nominee John McCain today selected Alaska governor Sarah Palin , a relative political novice , as his vice - presidential running mate .
+---
+[2008-09-01]
+Sarah Palin , the Republican vice presidential candidate , has revealed that her unmarried 17-year - old daughter is five months pregnant .
+---
+[2008-09-02]
+Palin , the vice - presidential candidate and new star of the Republican party , was in St Paul , Minnesota , today to rally Republican convention delegates after being dispatched by McCain last night .
+---
+[2008-09-03]
+John McCain ( second from right ) and Sarah Palin ( far right ) on stage at the Republican national convention .
+---
+[2008-09-04]
+John McCain ( second from right ) and Sarah Palin ( far right ) on stage at the Republican national convention .
+---
+[2008-10-02]
+Meanwhile Richard Adams looks ahead to tonight 's televised debate between the vice - presidential candidates Sarah Palin and Joe Biden .
+---
+[2008-10-03]
+Michael Tomasky reviews the performances of Sarah Palin and Joe Biden in the US vice - presidential debate
+---
+[2008-11-04]
+UK broadcasters are planning wide - ranging coverage in the runup to the election on November 4 , which could either lead to the first black president - Democrat candidate Barack Obama - or the first female vice - president , John McCain 's Republican running mate , Sarah Palin .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Silvio_Berlusconi ***
+[2001-05-13]
+Silvio Berlusconi 's centre - right coalition last night appeared on course to win Italy 's general election despite international condemnation that he was unfit for office .
+---
+[2003-07-02]
+In response to a question from Mr Schulz alleging a conflict of interest between his political office and his extensive Italian media interests , Mr Berlusconi replied : " Mr Schulz , I know there is in Italy a man producing a film on the Nazi concentration camps .
+---
+[2003-07-04]
+On Friday the Italian prime minister said he had expressed his sadness to the German chancellor , Gerhard Schröder , that his comments about Martin Schulz , the German MEP who Mr Berlusconi compared to a Nazi concentration camp guard , had been misconstrued , but he stressed he had not apologised .
+---
+[2006-04-09]
+They also voted in large numbers at polling stations around the historic city of Viterbo in a general election to decide whether Silvio Berlusconi is ousted from power after five years as Italy 's prime minister .
+---
+[2008-04-13]
+The centre - left leader , Walter Veltroni , launched himself into a frenetic round of last - minute interviews and engagements ahead of the general election in Italy which starts tomorrow , amid signs he might be closing in on Silvio Berlusconi .
+---
+[2010-12-14]
+Silvio Berlusconi 's rightwing government has survived a second of two votes of confidence in the Italian parliament , beating off a censure motion in the lower house by three votes .
+---
+[2011-02-13]
+On Sunday , half a million women turned out to protest at Berlusconi and the entrenched sexism they accuse him of representing in one of the biggest demonstrations seen in Italy in recent years .
+---
+[2011-11-08]
+On Tuesday evening , after losing his majority in the chamber of deputies , Berlusconi told Napolitano he would resign .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Steve_Jobs ***
+[2008-01-15]
+Also in his speech at Macworld in San Francisco , chief executive Steve Jobs said Apple would push to take control of the video industry with movie rentals and launch a revamped Apple TV product to stream films direct to television screens . "
+---
+[2009-01-05]
+Apple and Steve Jobs have both issued letters about the latter 's health , so we 're publishing the full text here .
+---
+[2010-12-25]
+Top stories on MediaGuardian.co.uk Hunt unveils plan for new national TV channel Culture secretary hopes channel will help deliver his ambition for network of local TV services Arqiva seeks partner for online TV venture SeeSaw online TV venture could be sold as part of strategic review Apple announces record profits of $ 6bn as Steve Jobs hails ' phenomenal ' sales Shares increase after Apple reports more than 7 m iPads sold during Christmas quarter , as chief executive prepares to go on medical leave This week 's featured media jobs Red Bull - Web Producer Austria / permanent / full time Net - a - porter - Managing Copy Editor London / permanent / full time Capital FM - Managing Editor London / permanent / full time
+---
+[2011-06-06]
+The Times Apple 's Steve Jobs to launch iCloud today .
+---
+[2011-08-24]
+Steve Apple made a followup statement : Apple 's Board of Directors today announced that Steve Jobs has resigned as Chief Executive Officer , and the Board has named Tim Cook , previously Apple 's Chief Operating Officer , as the company 's new CEO .
+---
+[2011-08-25]
+Steve Jobs has provided both strategic vision and personal leadership at the top of the company , as arguably the most visible and well - known CEO of any technology company today .
+---
+[2011-10-05]
+Jobs died on 5 October 2011 , of cancer .
+---
+[2011-10-06]
+And so it will prove with the death of one Steve Jobs .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Taliban ***
+[2007-12-27]
+" We have the evidence that al - Qaida and the Taliban were behind the suicide attack on Benazir Bhutto , " the interior minister , Hamid Nawaz , told the Associated Press .
+---
+[2008-08-18]
+Ten French soldiers have been killed and 21 wounded after a Taliban ambush 40 miles east of the Afghan capital , Kabul .
+---
+[2008-08-20]
+He said Afghanistan wanted to make similar deals with the Taliban in other parts of the country ahead of the presidential elections on 20 August .
+---
+[2009-05-06]
+Obama is tomorrow to host at the White House a joint meeting with the Pakistan president , Asif Ali Zardari , and the Afghanistan president , Hamid Karzai , to discuss details of his plan for dealing with the threat posed by the Taliban and al - Qaida in both countries .
+---
+[2009-08-20]
+Before the presidential elections on 20 August he told Nato colleagues that he would send the US reinforcements deployed in Helmand and Kandahar provinces deep into Taliban - controlled areas , but he would not do so simply in order for Afghans to vote .
+---
+[2009-09-09]
+Stephen Farrell , a 46-year - old New York Times reporter who had been held by the Taliban in Kunduz for four days , was freed as a result of the raid in the early hours , but the Afghan journalist working with him , Sultan Munadi , was killed .
+---
+[2010-01-28]
+Britain 's ambassador to Kabul , was speaking before tomorrow 's London conference , at which much of the focus will be on the signals President Hamid Karzai sends to the Taliban in his opening remarks .
+---
+[2012-10-09]
+Malala Yousafzai was shot in the head and neck while she sat with classmates on a school bus as it prepared to drive students home after morning classes in Mingora , a city in the Swat valley , where the army mounted major operations in 2009 to crush a Taliban insurgency .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Ted_Cruz ***
+[2016-02-01]
+Donald Trump has claimed Ted Cruz committed â€œfraudâ€ � in his successful campaign to win the Republican Iowa caucuses on Monday , and has called for a new election .
+---
+[2016-02-23]
+Trump leads polls in most Super Tuesday states , except Texas and Arkansas , where Cruz leads in some counts .
+---
+[2016-03-01]
+Both Hillary Clinton and Marco Rubio passed through Minneapolis , Minnesota ; Bernie Sanders and Ted Cruz voted in their respective home states of Vermont and Texas ; and Donald Trump visited ... Ohio , which is not technically a Super Tuesday state .
+---
+[2016-03-15]
+On 15 March , the names of the remaining presidential candidates â€ “ Donald Trump , Ted Cruz , Marco Rubio and John Kasich on the Republican side , Hillary Clinton and Bernie Sanders for the Democrats â€ “ will be on ballot papers in five states and one US territory .
+---
+[2016-03-22]
+Or , you could support Ted Cruz on Tuesday .â€
+---
+[2016-03-23]
+But challengers Ted Cruz and Bernie Sanders scored notable caucus wins in Utah , and the Vermont senator also nabbed a victory in the Idaho Democratic caucus ( the GOP caucus , which happened at an earlier date , went to Cruz ) .
+---
+[2016-04-19]
+After winning over 60 % of the New York Republican primary vote , Donald Trump tweeted of rival Ted Cruz : â€œNow all he can do is be a spoiler , never a nice thing to do .
+---
+[2016-05-03]
+Donald Trump emerged as the presumptive Republican presidential nominee with a resounding victory in Indiana , as Ted Cruz suspended his presidential campaign .
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: Tiger_Woods ***
+[2005-07-15]
+Jack Nicklaus and Tiger Woods exited St Andrews last night , one in tears , the other in the expectation that tomorrow will bring his 10th major championship victory .
+---
+[2006-07-22]
+Tiger Woods is no tortoise , nor Chris DiMarco a hare , but the paradox seemed to hold good on the burnished links of Royal Liverpool yesterday .
+---
+[2006-07-23]
+Just 11 weeks after the death of his father , Tiger Woods majestically returned today to doing what he does best - winning major golf titles .
+---
+[2006-09-22]
+When the Ryder Cup gets under way at 8 am tomorrow , Tiger Woods and Jim Furyk will be standing on the first tee , with Padraig Harrington and Colin Montgomerie aside them .
+---
+[2008-04-10]
+The unstoppable in pursuit of the unattainable begins tomorrow at 10.45am Augusta time , when Tiger Woods will hit his first shot of the 2008 Masters , his first shot in the quest to do what no one has done before and win professional golf 's grand slam .
+---
+[2009-11-27]
+Tiger Woods , the world 's leading golfer , has been injured in a car crash outside his Florida home .
+---
+[2009-11-29]
+This week it emerged that not a single advert featuring Woods had been shown on American television since 29 November , two days after the accident .
+---
+[2010-02-19]
+Did I see tears of remorse in Tiger Woods 's eyes when he hugged his friends and family after delivering his public apology on Friday ?
+---
+vectorizer...
+date ranking...
+candidates & summarization...
+*** TIMELINE: WikiLeaks ***
+[2010-11-29]
+China 's moves to distance itself from the North Korean regime were revealed in the latest tranche of leaked US embassy cables obtained by WikiLeaks and published yesterday by the Guardian and four international newspapers .
+---
+[2010-11-30]
+It 's been a big start to the week for the Guardian , with our exclusive access to the leaked US cables from WikiLeaks .
+---
+[2010-12-03]
+The Guardian revealed on Friday that diplomatic cables released by WikiLeaks provide evidence that spying , threats and promises of aid apparently formed part of the US diplomatic offensive to shore up the so - called Copenhagen Accord .
+---
+[2010-12-06]
+Uncertainty surrounded Julian Assange 's legal future last night as the WikiLeaks founder agreed to meet British police to discuss allegations of sexual assault against him in Sweden .
+---
+[2010-12-07]
+Julian Assange , the founder of WikiLeaks , is expected to appear in a UK court today after his lawyers said he would meet police to discuss a European arrest warrant from Sweden relating to alleged sexual assaults .
+---
+[2010-12-08]
+MasterCard was partially paralysed today in revenge for the payment network 's decision to cease taking donations to WikiLeaks .
+---
+[2010-12-15]
+Sweden has decided to fight a British judge 's decision to grant bail to WikiLeaks founder Julian Assange , who has spent more than a week in prison over sexual assault allegations involving two Swedish women .
+---
+[2010-12-25]
+Many WikiLeaks supporters have now gone home for Christmas , leaving Assange with a scaled - down team over the holiday period , on an estate where the pheasant and grouse greatly outnumber the humans .
+---

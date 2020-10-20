@@ -26,7 +26,7 @@ def run(tls_model, dataset, outpath):
 
         )
 
-        print('*** TIMELINE ***')
+        print('*** TIMELINE: {} ***'.format(topic))
         utils.print_tl(timeline)
 
         outputs.append(timeline.to_dict())
