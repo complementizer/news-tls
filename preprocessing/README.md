@@ -1,3 +1,28 @@
+# to process the data from the nyt raw data
+
+```bash
+python preprocess_nyt.py --dataset_dir ../../../data/datasets/test --keywords apple,jobs
+```
+We provide the function to find a collection of the document from the specific kewords list and we provide an API for search the document information by parsing the id information.
+
+> id is a code consisted of the Year,Month,Date,Slug, such as 20030404-LTR232202.
+
+Please notice that Slug column is almost an unique identifier for one document in one day except for the death notice. Deathnotice' slug is like DN030403 which indicate that Death Notice in 2003-03-04. Since the only case using the death notice is a biography of one person, and which is easy to select manually.
+
+we use simple query method to test whether the article abstract has the keyword and take it into jsonlines, where one json format is in the following.
+
+```json
+{'id': '20030404-04PHON$03',
+ 'time': '20030404T000000',
+ 'text': 'Stephen Holden reviews movie Phone Booth, directed by Joel Schumacher; Colin Farrell and Kiefer Sutherland star; photos (M)'}
+```
+
+for following preprocessing, there is a bash provided.
+
+```bash
+bash preprocess.sh
+```
+
 # Preprocessing
 Here are some instructions for preprocessing a new dataset in the same way as the datasets used by us. [Tilse](https://github.com/smartschat/tilse) needs to be downloaded. It contains the HeidelTime tool in [this folder](https://github.com/smartschat/tilse/tree/master/tilse/tools/heideltime).
 

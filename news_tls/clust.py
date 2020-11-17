@@ -11,14 +11,16 @@ from typing import List
 from news_tls import utils, data
 
 
-class ClusteringTimelineGenerator():
-    def __init__(self,
-                 clusterer=None,
-                 cluster_ranker=None,
-                 summarizer=None,
-                 clip_sents=5,
-                 key_to_model=None,
-                 unique_dates=True):
+class ClusteringTimelineGenerator:
+    def __init__(
+        self,
+        clusterer=None,
+        cluster_ranker=None,
+        summarizer=None,
+        clip_sents=5,
+        key_to_model=None,
+        unique_dates=True,
+    ):
 
         self.clusterer = clusterer or TemporalMarkovClusterer()
         self.cluster_ranker = cluster_ranker or ClusterDateMentionCountRanker()
@@ -27,32 +29,35 @@ class ClusteringTimelineGenerator():
         self.unique_dates = unique_dates
         self.clip_sents = clip_sents
 
-    def predict(self,
-                collection,
-                max_dates=10,
-                max_summary_sents=1,
-                ref_tl=None,
-                input_titles=False,
-                output_titles=False,
-                output_body_sents=True):
+    def predict(
+        self,
+        collection,
+        max_dates=10,
+        max_summary_sents=1,
+        ref_tl=None,
+        input_titles=False,
+        output_titles=False,
+        output_body_sents=True,
+    ):
 
-        print('clustering articles...')
-        doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
+        print("clustering articles...")
+        doc_vectorizer = TfidfVectorizer(lowercase=True, stop_words="english")
         clusters = self.clusterer.cluster(collection, doc_vectorizer)
 
-        print('assigning cluster times...')
+        print("assigning cluster times...")
         for c in clusters:
             c.time = c.most_mentioned_time()
             if c.time is None:
                 c.time = c.earliest_pub_time()
 
-        print('ranking clusters...')
+        print("ranking clusters...")
         ranked_clusters = self.cluster_ranker.rank(clusters, collection)
 
-        print('vectorizing sentences...')
-        raw_sents = [s.raw for a in collection.articles() for s in
-                     a.sentences[:self.clip_sents]]
-        vectorizer = TfidfVectorizer(lowercase=True, stop_words='english')
+        print("vectorizing sentences...")
+        raw_sents = [
+            s.raw for a in collection.articles() for s in a.sentences[: self.clip_sents]
+        ]
+        vectorizer = TfidfVectorizer(lowercase=True, stop_words="english")
         vectorizer.fit(raw_sents)
 
         def sent_filter(sent):
@@ -69,28 +74,38 @@ class ClusteringTimelineGenerator():
             else:
                 return True
 
-        print('summarization...')
+        print("summarization...")
         sys_l = 0
         sys_m = 0
         ref_m = max_dates * max_summary_sents
 
         date_to_summary = collections.defaultdict(list)
+
         for c in ranked_clusters:
 
             date = c.time.date()
-            c_sents = self._select_sents_from_cluster(c)
-            #print("C", date, len(c_sents), "M", sys_m, "L", sys_l)
+            c_sents, c_sents_id = self._select_sents_from_cluster(c)
+            # print("C", date, len(c_sents), "M", sys_m, "L", sys_l)
+
             summary = self.summarizer.summarize(
-                c_sents,
-                k=max_summary_sents,
-                vectorizer=vectorizer,
-                filter=sent_filter
+                c_sents, k=max_summary_sents, vectorizer=vectorizer, filter=sent_filter
             )
 
+            c_sents_raw = [s.raw for s in c_sents]
+            # if c_sents_raw.index(summary[0]) >= len(c_sents_id):
+            #     print(c_sents_id)
+            #     print(summary)
+            #     print(c_sents_raw)
+            if summary:
+                print(summary)
+                sent_id = c_sents_id[c_sents_raw.index(summary[0])]
+
+            if len(summary) > 1:
+                print(summary)
             if summary:
                 if self.unique_dates and date in date_to_summary:
                     continue
-                date_to_summary[date] += summary
+                date_to_summary[date] += [sent_id + " : " + summary[0]]
                 sys_m += len(summary)
                 if self.unique_dates:
                     sys_l += 1
@@ -108,11 +123,13 @@ class ClusteringTimelineGenerator():
 
     def _select_sents_from_cluster(self, cluster):
         sents = []
+        sents_id = []
         for a in cluster.articles:
             pub_d = a.time.date()
-            for s in a.sentences[:self.clip_sents]:
+            for s in a.sentences[: self.clip_sents]:
                 sents.append(s)
-        return sents
+                sents_id.append(a.id)
+        return sents, sents_id
 
     def load(self, ignored_topics):
         pass
@@ -142,7 +159,7 @@ class Cluster:
         mentioned_times = []
         for a in self.articles:
             for s in a.sentences:
-                if s.time and s.time_level == 'd':
+                if s.time and s.time_level == "d":
                     mentioned_times.append(s.time)
         if mentioned_times:
             return collections.Counter(mentioned_times).most_common()[0][0]
@@ -154,7 +171,7 @@ class Cluster:
         self.centroid = sparse.csr_matrix.mean(X, axis=0)
 
 
-class Clusterer():
+class Clusterer:
     def cluster(self, collection, vectorizer) -> List[Cluster]:
         raise NotImplementedError
 
@@ -166,9 +183,9 @@ class OnlineClusterer(Clusterer):
 
     def cluster(self, collection, vectorizer) -> List[Cluster]:
         # build article vectors
-        texts = ['{} {}'.format(a.title, a.text) for a in collection.articles]
+        texts = ["{} {}".format(a.title, a.text) for a in collection.articles]
         try:
-            X =  vectorizer.transform(texts)
+            X = vectorizer.transform(texts)
         except:
             X = vectorizer.fit_transform(texts)
 
@@ -224,7 +241,7 @@ class TemporalMarkovClusterer(Clusterer):
 
     def cluster(self, collection, vectorizer) -> List[Cluster]:
         articles = list(collection.articles())
-        texts = ['{} {}'.format(a.title, a.text) for a in articles]
+        texts = ["{} {}".format(a.title, a.text) for a in articles]
         try:
             X = vectorizer.transform(texts)
         except:
@@ -232,18 +249,20 @@ class TemporalMarkovClusterer(Clusterer):
 
         times = [a.time for a in articles]
 
-        print('temporal graph...')
+        print("temporal graph...")
         S = self.temporal_graph(X, times)
-        #print('S shape:', S.shape)
-        print('run markov clustering...')
+        # print('S shape:', S.shape)
+        print("run markov clustering...")
         result = mc.run_mcl(S)
-        print('done')
+        print("done")
 
         idx_clusters = mc.get_clusters(result)
         idx_clusters.sort(key=lambda c: len(c), reverse=True)
 
-        print(f'times: {len(set(times))} articles: {len(articles)} '
-              f'clusters: {len(idx_clusters)}')
+        print(
+            f"times: {len(set(times))} articles: {len(articles)} "
+            f"clusters: {len(idx_clusters)}"
+        )
 
         clusters = []
         for c in idx_clusters:
@@ -269,7 +288,7 @@ class TemporalMarkovClusterer(Clusterer):
 
         for n in range(total_days + 1):
             t = start + datetime.timedelta(days=n)
-            window_size =  min(self.max_days + 1, total_days + 1 - n)
+            window_size = min(self.max_days + 1, total_days + 1 - n)
             window = [t + datetime.timedelta(days=k) for k in range(window_size)]
 
             if n == 0 or len(window) == 1:
@@ -335,18 +354,6 @@ class ClusterDateMentionCountRanker(ClusterRanker):
 
         clusters = sorted(clusters, reverse=True, key=get_count)
         return sorted(clusters, key=len, reverse=True)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #
